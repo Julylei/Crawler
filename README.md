@@ -1,2 +1,2 @@
 # Crawler
-爬虫
+crawler for txt and picture
